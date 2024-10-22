@@ -16,5 +16,9 @@
 
 ### ⚡ Fun fact:
 - I enjoy exploring new technologies and building innovative projects!
-###### Email: sameermujahid7777@gmail.com LinkedIn: https://www.linkedin.com/in/sameer-mujahid-shaik/
+
+[![Email](https://img.shields.io/badge/Email-sameermujahid7777@gmail.com-brightgreen?style=for-the-badge&logo=gmail)](mailto:sameermujahid7777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Mujahid-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sameer-mujahid-shaik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge&logo=github)](https://sameermujahid.github.io/)
+
 ---
