@@ -21,7 +21,3 @@
 [![Email](https://img.shields.io/badge/Email-sameermujahid7777@gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&color=brightgreen&labelColor=black)](mailto:sameermujahid7777@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Mujahid-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&labelColor=black)](https://www.linkedin.com/in/sameer-mujahid-shaik/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge&logo=github&logoColor=white&color=orange&labelColor=black)](https://sameermujahid.github.io/)
-
---- 
-
-Feel free to tweak anything else!
