@@ -1,7 +1,3 @@
-Sure! Here’s your section with rounded badges:
-
----
-
 ## 👋 Hi, I’m Sameer Mujahid
 ### 👀 I’m interested in:
 - Web development
