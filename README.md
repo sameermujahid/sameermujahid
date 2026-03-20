@@ -1,98 +1,86 @@
-# 👋 Hi, I'm Sameer Mujahid Shaik
+# Sameer Mujahid Shaik
 
-🚀 **AI/ML Engineer | GenAI | Computer Vision | Full-Stack Developer**
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech CSE Graduate (2024)
-* 🤖 Passionate about **AI, Machine Learning & Generative AI**
-* ⚡ Experienced in building **real-world AI systems & scalable applications**
-* 🔍 Focused on solving problems using **data + intelligent systems**
+AI/ML Engineer | Generative AI | Computer Vision | Full-Stack Development
 
 ---
 
-## 🧠 Tech Stack
+## About Me
 
-### 🚀 AI / ML / DL
-
-* PyTorch, TensorFlow, scikit-learn
-* Hugging Face, LangChain, RAG
-
-### 👁️ Computer Vision & NLP
-
-* YOLOv8, OpenCV
-* NLP pipelines, embeddings
-
-### 💻 Programming
-
-* Python, SQL, JavaScript
-
-### 🌐 Web & Deployment
-
-* React, FastAPI, Django
-* Docker, REST APIs
-
-### ☁️ Cloud
-
-* AWS, GCP, Azure
+B.Tech Computer Science graduate with hands-on experience in designing, building, and deploying machine learning and deep learning systems. Focused on solving real-world problems using data-driven and AI-powered solutions.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🤖 RAG Chatbot
+| Category              | Technologies                              |
+| --------------------- | ----------------------------------------- |
+| AI / Machine Learning | PyTorch, TensorFlow, scikit-learn         |
+| Generative AI         | Hugging Face, LangChain, RAG              |
+| Computer Vision / NLP | YOLOv8, OpenCV, NLP pipelines, embeddings |
+| Programming           | Python, SQL, JavaScript                   |
+| Web Development       | React, FastAPI, Django                    |
+| Deployment & Tools    | Docker, REST APIs, Git, GitHub            |
+| Cloud                 | AWS, GCP, Azure                           |
 
-🔗 https://github.com/sameermujahid/rag-chatbot
+---
 
-* Built using LangChain + FAISS
-* Handles 10K+ queries/day
+## Featured Projects
+
+### RAG Chatbot
+
+https://github.com/sameermujahid/customer-chatbot
+* Built using LangChain and FAISS
 * Context-aware responses
+* Scalable architecture handling high query volume
 
 ---
 
-### 🔍 AI Visual Search System
+### AI Visual Search System
 
-🔗 https://github.com/sameermujahid/ai-visual-search
-
-* Image similarity using deep learning
-* Achieved 92% accuracy
+https://github.com/sameermujahid/ikea-lens
+* Deep learning-based image similarity system
+* Achieved high retrieval accuracy
 
 ---
 
-### 📸 Attendance Management System
+### Attendance Management System
 
-🔗 https://github.com/sameermujahid/attendance-system
-
+https://github.com/sameermujahid/attendance_application
 * YOLOv8-based facial recognition
-* Reduced manual errors by 95%
+* Reduced manual effort and improved accuracy
 
 ---
 
-### 🏠 AI Property Recommendation System
+### AI Property Recommendation System
 
-🔗 https://github.com/sameermujahid/property-recommendation
-
+https://github.com/sameermujahid/property-recommendation
 * Intelligent recommendation engine
-* Adaptive learning from user feedback
+* Adaptive feedback-based improvements
+
+---
+### AI Interviewer System
+
+https://github.com/sameermujahid/ai-interviewer
+
+* Built an AI-powered mock interview system for real-time candidate evaluation
+
+* Uses NLP and SLM-based question generation and response analysis
+
+* Provides intelligent feedback to improve interview performance
 
 ---
 
-## 📊 GitHub Stats
+## Activity Overview
 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameermujahid\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameermujahid\&layout=compact\&theme=default)
 
----
-
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-sameermujahid7777@gmail.com-brightgreen?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=black)](mailto:sameermujahid7777@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Mujahid-blue?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=black)](https://www.linkedin.com/in/shaik-sameer-mujahid)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=black)](https://sameermujahid.github.io/)
 
 ---
 
-⭐ *Always building. Always learning.*
+## Contact
+[![Email](https://img.shields.io/badge/Email-sameermujahid7777@gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&color=brightgreen&labelColor=black)](mailto:sameermujahid7777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Mujahid-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&labelColor=black)](https://www.linkedin.com/in/shaik-sameer-mujahid/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge&logo=github&logoColor=white&color=orange&labelColor=black)](https://sameermujahid.github.io/)
+---
+
+Consistent focus on building scalable AI systems and improving real-world efficiency through technology.
